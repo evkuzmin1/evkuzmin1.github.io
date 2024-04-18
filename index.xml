@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,106 @@
     </item>
     
     <item>
+      <title>Небольшой пост про легкословесные языки разметки</title>
+      <link>http://localhost:1313/post/post5/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post5/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Понедельник:&lt;/em&gt;
+Начало недели ознаменовалось прибытием гостей из Лондона, что наложило свои обязанности на весь дом. Мы все тщательно готовились к вечеру, когда дом должен был засиять во всей своей славе. Повара на кухне работали без устали, а лакеи и горничные занимались тем, чтобы каждая деталь интерьера была безупречна. Вечер прошел великолепно, с учтивыми разговорами о политике и искусстве, приправленными изысканными блюдами и старыми винами.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Вторник:&lt;/em&gt;
+Утро принесло свежие вести из газет, которые вызвали бурное обсуждение за завтраком. Один из гостей выразил свои опасения по поводу предстоящих изменений в законодательстве, что могло повлиять на управление имением. Днем я прогуливался по роскошным садам, наслаждаясь природой и отдыхом от городской суеты, в то время как проводились уроки верховой езды для младших детей.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Среда:&lt;/em&gt;
+Этот день был отмечен незапланированным приездом старого друга семьи, что добавило жизни в обыденную рутину. Его рассказы о путешествиях по экзотическим странам заставили всех забыть о текущих заботах. Вечером состоялся небольшой концерт в музыкальной комнате, где все демонстрировали свои музыкальные таланты.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Четверг:&lt;/em&gt;
+День начался с собрания управляющих, где обсуждались вопросы улучшения работы компаний и управления капиталом. Вечером был организован благотворительный ужин, приуроченный к сбору средств для местной поликлинике.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Пятница:&lt;/em&gt;
+Этот день был особенно значимым для меня, так как я получил письмо с важными новостями от дальнего родственника, что предвещало возможные изменения в моей жизни. Вечер был посвящен чтению и размышлениям в библиотеке, окруженный старыми книгами и тишиной.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Суббота:&lt;/em&gt;
+Суббота прошла в знак подготовки к предстоящему сезону охоты. Был проведен инструктаж для слуг и пригласил несколько близких друзей принять участие в этом мероприятии. Вечером молодежь устроила танцы в большом зале, что стало приятным завершением дня.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Воскресенье:&lt;/em&gt;
+День начался с утренней службы в семейной часовне. После обеда, проведенного в кругу семьи, мы все собрались в главном зале, чтобы обсудить планы на следующую неделю. На улице начался первый осенний дождь, создавая уют и покой.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Небольшой пост про легкословесные языки разметки</title>
+      <link>http://localhost:1313/post/post6/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post6/</guid>
+      <description>&lt;p&gt;Оформление отчетов — это важный процесс, который требует внимания к мелочам и знаний определенных стандартов. Хорошо оформленный отчет не только облегчает понимание представленной информации, но и подчеркивает профессионализм автора. Вот подробные рекомендации по правильному оформлению отчетов:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Титульный лист&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Название организации и/или отдела.&lt;/li&gt;
+&lt;li&gt;Полное название отчета.&lt;/li&gt;
+&lt;li&gt;Имя и должность лица, подготовившего отчет.&lt;/li&gt;
+&lt;li&gt;Дата подготовки отчета.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Оглавление&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Включите все разделы и подразделы, а также номера страниц, на которых они начинаются.&lt;/li&gt;
+&lt;li&gt;Оглавление должно быть аккуратным и точным, чтобы облегчить навигацию по документу.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Введение&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Цель отчета.&lt;/li&gt;
+&lt;li&gt;Краткое описание проблемы или ситуации, которая анализируется.&lt;/li&gt;
+&lt;li&gt;Методология сбора и анализа данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Основное тело отчета&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Анализ данных&lt;/em&gt;: Используйте графики, таблицы и диаграммы для наглядного представления данных. Убедитесь, что все элементы четко подписаны и имеют пояснения.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Текстовое описание&lt;/em&gt;: Каждый раздел должен содержать четкое и краткое изложение информации. Избегайте сложных предложений и специализированной терминологии без объяснений.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Промежуточные выводы&lt;/em&gt;: В конце каждого раздела делайте краткие выводы по представленным данным.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Заключение&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Обобщите основные выводы отчета.&lt;/li&gt;
+&lt;li&gt;Предложите возможные шаги или решения на основе анализа.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Список литературы&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Укажите все источники информации, используемые в отчете. Следуйте стандартному стилю цитирования (APA, MLA, Харвард и т.д.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Приложения&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Включите дополнительные материалы, которые помогут глубже понять предмет отчета. Это могут быть таблицы данных, технические детали, графики и так далее.&lt;/li&gt;
+&lt;li&gt;Каждое приложение должно иметь свою страницу и номер.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Форматирование&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Шрифт и интервалы&lt;/em&gt;: Используйте легко читаемый шрифт, например Arial или Times New Roman размером 12 пт. Междустрочный интервал — 1,5 или двойной.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Номера страниц&lt;/em&gt;: Номера страниц помещаются в верхнем или нижнем колонтитуле страницы.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Поля&lt;/em&gt;: Стандартные поля — 2,5 см с каждой стороны.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Проверка&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед финальной печатью отчета уделите время на корректуру текста для исправления орфографических, пунктуационных и грамматических ошибок. Рассмотрите возможность независимого рецензирования отчета другим специалистом.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Следуя этим рекомендациям, вы сможете подготовить профессионально оформленный и эффективный отчет&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>5 дней вкратце</title>
-      <link>https://example.com/post/post3/</link>
+      <link>http://localhost:1313/post/post3/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       <description>&lt;p&gt;Понедельник вечером я решил начать с простых радостей – похода в старый добрый спортзал. Нет ничего лучше, чем выместить всю накопившуюся энергию на железе, особенно когда в наушниках играет тот самый мотивирующий трек.&lt;/p&gt;
 &lt;p&gt;Вторник принёс ностальгию – вечер с друзьями в боулинге. Смех, шутки и звук сбиваемых кеглей – идеальное напоминание о том, что жизнь полна простых радостей. Да, и выиграть пару партий тоже не помешало, азарт – он везде.&lt;/p&gt;
 &lt;p&gt;Среда оказалась на удивление спокойной. Я углубился в чтение книги, которую давно откладывал в сторону. Погружение в историю, полную интриг и неожиданных поворотов, помогло отвлечься от повседневной суеты.&lt;/p&gt;
@@ -48,9 +144,9 @@
     
     <item>
       <title>Небольшой пост про легкословесные языки разметки</title>
-      <link>https://example.com/post/post4/</link>
+      <link>http://localhost:1313/post/post4/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post4/</guid>
+      <guid>http://localhost:1313/post/post4/</guid>
       <description>&lt;p&gt;Легковесные языки разметки — это инструменты, которые революционизировали способ создания, обмена и публикации контента в Интернете. Эти языки предназначены для того, чтобы сделать процесс написания веб-документов максимально простым и интуитивно понятным, при этом обеспечивая достаточную гибкость для выполнения большинства задач по форматированию текста. Их основная цель — минимизировать время и усилия, необходимые для создания структурированных документов, и сделать их подготовку доступной даже для тех, кто не обладает глубокими знаниями в области веб-разработки.&lt;/p&gt;
 &lt;p&gt;Markdown: Простота и Широкое Применение
 Markdown, возможно, самый известный легковесный язык разметки. Он был разработан как средство для конвертации простого текста в валидный HTML, позволяя пользователям писать с использованием простого текстового редактора и преобразовывать их заметки в веб-страницы без необходимости знать HTML. Этот язык имеет синтаксис, который легко читается и пишется человеком, и в то же время легко преобразуется в HTML, что делает его идеальным для написания веб-контента, документации проектов и личных заметок.&lt;/p&gt;
@@ -68,9 +164,9 @@ AsciiDoc представляет собой еще один уровень сл
     
     <item>
       <title>Пост про прошедшую неделю</title>
-      <link>https://example.com/post/post1/</link>
+      <link>http://localhost:1313/post/post1/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       <description>&lt;h2 id=&#34;1st-day&#34;&gt;1st day&lt;/h2&gt;
 &lt;p&gt;В первый день я отдался искусству ничегонеделания. Лежал на пляже, чувствуя, как тёплые лучи солнца ласкают мою кожу, а прохладные волны океана обнимают мои ноги. Вечером, насладившись закатом, я отправился в шумный ресторан на берегу, где каждый глоток экзотического коктейля казался маленьким приключением.&lt;/p&gt;
 &lt;h2 id=&#34;2nd-day&#34;&gt;2nd day&lt;/h2&gt;
@@ -90,9 +186,9 @@ AsciiDoc представляет собой еще один уровень сл
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2/</link>
+      <link>http://localhost:1313/post/post2/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2/</guid>
+      <guid>http://localhost:1313/post/post2/</guid>
       <description>&lt;h1 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h1&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -112,9 +208,9 @@ AsciiDoc представляет собой еще один уровень сл
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -139,7 +235,7 @@ AsciiDoc представляет собой еще один уровень сл
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -159,9 +255,9 @@ AsciiDoc представляет собой еще один уровень сл
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -173,9 +269,9 @@ AsciiDoc представляет собой еще один уровень сл
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -298,9 +394,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>http://localhost:1313/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>http://localhost:1313/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -311,17 +407,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>http://localhost:1313/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -338,9 +434,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

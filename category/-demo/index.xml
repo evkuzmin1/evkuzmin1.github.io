@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-Demo | Academic</title>
-    <link>https://example.com/category/-demo/</link>
-      <atom:link href="https://example.com/category/-demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/-demo/</link>
+      <atom:link href="http://localhost:1313/category/-demo/index.xml" rel="self" type="application/rss+xml" />
     <description>-Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>-Demo</title>
-      <link>https://example.com/category/-demo/</link>
+      <link>http://localhost:1313/category/-demo/</link>
     </image>
     
     <item>
       <title>5 дней вкратце</title>
-      <link>https://example.com/post/post3/</link>
+      <link>http://localhost:1313/post/post3/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       <description>&lt;p&gt;Понедельник вечером я решил начать с простых радостей – похода в старый добрый спортзал. Нет ничего лучше, чем выместить всю накопившуюся энергию на железе, особенно когда в наушниках играет тот самый мотивирующий трек.&lt;/p&gt;
 &lt;p&gt;Вторник принёс ностальгию – вечер с друзьями в боулинге. Смех, шутки и звук сбиваемых кеглей – идеальное напоминание о том, что жизнь полна простых радостей. Да, и выиграть пару партий тоже не помешало, азарт – он везде.&lt;/p&gt;
 &lt;p&gt;Среда оказалась на удивление спокойной. Я углубился в чтение книги, которую давно откладывал в сторону. Погружение в историю, полную интриг и неожиданных поворотов, помогло отвлечься от повседневной суеты.&lt;/p&gt;
